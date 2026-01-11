@@ -72,10 +72,10 @@ Program bittiğinde klasörde oluşan index.html dosyasına çift tıklayarak we
 7. Depo (Repo) İçeriği
 Genel proje yönergesine uygun olarak repo şu dosyaları içerir:
 
-📂 /src (veya kodlar): Python kaynak kodları.
+src (veya kodlar): Python kaynak kodları.
 
-📄 sunum.pdf: Konu anlatımı ve proje detaylarını içeren sunum dosyası.
+sunum.pdf: Konu anlatımı ve proje detaylarını içeren sunum dosyası.
 
-📝 README.md: Proje dökümantasyonu (Şu an okuduğunuz dosya).
+ README.md: Proje dökümantasyonu (Şu an okuduğunuz dosya).
 
-🌐 index.html: (Program çalıştırıldıktan sonra örnek olarak oluşan çıktı dosyası).
+ index.html: (Program çalıştırıldıktan sonra örnek olarak oluşan çıktı dosyası).
