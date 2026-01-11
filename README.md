@@ -50,18 +50,21 @@ Kullanıcının girdiği veriler (Ad, Biyografi, Dersler), f-string formatlama y
 ### Dosya Oluşturma (Output):
 Oluşturulan nihai metin bloğu, **index.html** adında bir dosya olarak kaydedilir. Sonuç olarak, projenin bulunduğu klasörde tarayıcıda çalışmaya hazır, listeli ve stilli bir web sayfası meydana gelir.
 
+---
 
 ### 6. Nasıl Çalıştırılır?
--Bilgisayarınızda Python'un yüklü olduğundan emin olun.
 
--Bu repodaki src (veya kodlar) klasörüne gidin.
+- Bilgisayarınızda Python'un yüklü olduğundan emin olun.
 
--Terminal veya IDE üzerinden .py uzantılı ana dosyanızı çalıştırın.
+- Bu repodaki src (veya kodlar) klasörüne gidin.
 
--Konsoldaki soruları cevaplayın.
+- Terminal veya IDE üzerinden .py uzantılı ana dosyanızı çalıştırın.
 
--Program bittiğinde klasörde oluşan index.html dosyasına çift tıklayarak web sayfanızı görüntüleyin.
+- Konsoldaki soruları cevaplayın.
 
+- Program bittiğinde klasörde oluşan index.html dosyasına çift tıklayarak web sayfanızı görüntüleyin.
+
+---
 ### 7. Depo (Repo) İçeriği
 Genel proje yönergesine uygun olarak repo şu dosyaları içerir:
 
