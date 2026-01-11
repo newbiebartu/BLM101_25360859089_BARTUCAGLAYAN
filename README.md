@@ -10,9 +10,10 @@ Proje konusu: Ağlar, İnternet ve HTML
 Youtube Linki :
 
 
-Proje açıklaması:
 
+---
 
+## 🧠 Python Projesi Açıklaması
 Bu projede Python programlama dili kullanılarak **otomatik HTML sayfası oluşturan** bir program geliştirilmiştir.
 
 Program:
@@ -26,25 +27,27 @@ Program:
   - Liste yapısı kullanır
   - Basit CSS ile renklendirilmiştir
 
+---
 
-
-
+## ⚙️ Kullanılan Teknolojiler
 - **Python 3**
 - String işlemleri
 - Dosya yazma işlemleri (`open`, `write`)
 - HTML
 - CSS (temel seviye)
 
+---
 
-
-
+## ▶️ Programın Çalıştırılması
 1. Bilgisayarınızda Python 3 yüklü olmalıdır.
 2. Proje klasörüne giriniz:
 ```bash
 cd src
-
-
+Python dosyasını çalıştırınız:
 python html_olusturucu.py
 
+rogram tamamlandığında klasör içinde index.html dosyası oluşacaktır.
+
+index.html dosyasını tarayıcıda açarak sonucu görüntüleyebilirsiniz.
 
 
