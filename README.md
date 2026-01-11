@@ -18,7 +18,7 @@ Python ile **Otomatik HTML Sayfası Oluşturucu**
 
 
 
-### 3. YouTube Video Linki :
+### 3. YouTube Video Linki : https://youtu.be/YMWHKsbTlEw
 
 ---
 
