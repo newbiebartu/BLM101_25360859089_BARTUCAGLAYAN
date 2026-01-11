@@ -2,11 +2,7 @@ import os
 import webbrowser
 
 
-# -----------------------------------------------------------
-# BLM101 - Bilgisayar Mühendisliğine Giriş Dönem Projesi
-# Grup 5: Ağlar, İnternet ve HTML
-# Konu: Python ile Otomatik HTML Sayfası Oluşturucu
-# -----------------------------------------------------------
+
 
 def kullanici_verilerini_al():
     """
