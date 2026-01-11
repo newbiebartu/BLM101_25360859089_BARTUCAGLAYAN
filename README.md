@@ -44,4 +44,7 @@ Program:
 cd src
 
 
+python html_olusturucu.py
+
+
 
