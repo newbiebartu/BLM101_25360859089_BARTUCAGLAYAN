@@ -14,7 +14,7 @@ def kullanici_verilerini_al():
     """
     print("--- Web Sayfası Oluşturucuya Hoş Geldiniz ---")
 
-    # Kullanıcıdan temel bilgileri istiyoruz [cite: 55]
+    # Kullanıcıdan temel bilgileri istiyoruz 
     ad_soyad = input("Adınız Soyadınız nedir?: ")
     biyografi = input("Kısa biyografiniz (Kendinizi tanıtın): ")
 
@@ -41,8 +41,8 @@ def html_icerigi_olustur(ad, bio, ders_listesi):
     for ders in ders_listesi:
         liste_html += f"            <li>{ders}</li>\n"
 
-    # HTML Şablonu (f-string kullanarak verileri içine gömüyoruz) [cite: 54]
-    # Yönerge gereği basit CSS renklendirmesi eklenmiştir [cite: 56]
+    # HTML Şablonu (f-string kullanarak verileri içine gömüyoruz) 
+    # Yönerge gereği basit CSS renklendirmesi eklenmiştir 
     html_kod = f"""<!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -124,7 +124,7 @@ def dosyayi_kaydet(html_verisi):
     """
     dosya_adi = "index.html"
 
-    # Dosya yazma işlemi (File Write) [cite: 54]
+    # Dosya yazma işlemi (File Write) 
     try:
         with open(dosya_adi, "w", encoding="utf-8") as dosya:
             dosya.write(html_verisi)
