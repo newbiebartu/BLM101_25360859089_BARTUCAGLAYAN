@@ -44,13 +44,18 @@ Program kullanıcıya konsol üzerinden sırasıyla sorular sorar: "Adınız ned
 
 Dersler listesi alınırken kullanıcı 'q' tuşuna basana kadar döngü devam eder ve veriler bir liste yapısında tutulur.
 
-Şablon Oluşturma ve İşleme (Process):
+### Şablon Oluşturma ve İşleme (Process):
+Python içerisindeki bir String değişkeninde, standart HTML5 iskeleti (DOCTYPE, html, head, body) tutulur. Bu HTML şablonunun içine CSS kodları gömülerek sayfanın renkli ve düzenli görünmesi sağlanır.
 
-Python içerisindeki bir String değişkeninde, standart HTML5 iskeleti (DOCTYPE, html, head, body) tutulur.
+Kullanıcının girdiği veriler (Ad, Biyografi, Dersler), f-string formatlama yöntemi ile HTML etiketlerinin (`<h1>`, `<p>`, `<ul>`, `<li>`) arasına yerleştirilir.
 
-Bu HTML şablonunun içine CSS kodları gömülerek sayfanın renkli ve düzenli görünmesi sağlanır.
+### Dosya Oluşturma (Output):
+Oluşturulan nihai metin bloğu, **index.html** adında bir dosya olarak kaydedilir. Sonuç olarak, projenin bulunduğu klasörde tarayıcıda çalışmaya hazır, listeli ve stilli bir web sayfası meydana gelir.
 
-Kullanıcının girdiği veriler (Ad, Biyografi, Dersler), f-string formatlama yöntemi ile HTML etiketlerinin (<h1>, <p>, <ul>, <li>) arasına yerleştirilir.
+## 5. Nasıl Çalıştırılır?
+1. Bilgisayarınızda Python'un yüklü olduğundan emin olun.
+2. Bu repodaki `src` (veya kodlar) klasörüne gidin.
+3. Terminal veya IDE üzerinden `.py` uzantılı ana dosyanızı çalıştırın.
 
 Dosya Oluşturma (Output):
 
